@@ -93,6 +93,9 @@ Start chatting with the assistant!
 ✅ This project is inspired by AI chatbots and leverages Gemini API for responses.
 ✅ Special thanks to Google Gemini API for making AI-powered conversations possible!
 
+---
+💡 **Developed by Vibinson Raj G** 🚀
+
 
 
 
